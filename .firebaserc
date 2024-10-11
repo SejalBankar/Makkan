@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "ajinkyaraj-ox"
-  }
+    "default": "ajinkyaraj-ox",
+    "staging": "makkan-fb0d0"
+  },
+  "targets": {},
+  "etags": {}
 }
